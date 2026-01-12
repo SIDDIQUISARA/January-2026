@@ -1,4 +1,0 @@
-git rm -r "Day 2 – Regularization Deep Dive"
-git commit -m "Delete Day 2 folder"
-git push origin main
-
